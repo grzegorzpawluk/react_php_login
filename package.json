@@ -1,4 +1,5 @@
 {
+  "homepage": "http://192.168.1.11",
   "name": "react_php_login",
   "version": "0.1.0",
   "private": true,
